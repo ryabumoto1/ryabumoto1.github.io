@@ -2,7 +2,10 @@ theme: jekyll-theme-minimal
 title: Robert Yabumoto's Homepage
 description: Bookmark this to keep an eye on project updates
 
-desription: Check this Kaggle.com dataset on Customer Purchasing Behaviors: https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors?resource=download
+desription: Check this Kaggle.com dataset on Customer Purchasing Behaviors: [Dataset](https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors?resource=download)
 
-description: This Dataset on Customer Purchasing Behaviors could have strong influence on ads that are tailored to the user knowing which products to promote and when depending on what the customer's salart, how old the customer is, and even the amount of purchases made.
+description: This Dataset on Customer Purchasing Behaviors could have strong influence on ads that are tailored to the user knowing which products to promote and when depending on what the customer's salary, how old the customer is, and even the amount of purchases made.
 
+description: Also check this book out that is intended to be used as an introduction into the field of Deep Learning: [Book](https://www.deeplearningbook.org/)
+description: This book was made by Ian Goodfellow, Yoshua Bengio, and Aaron Courville published through the MIT Press.
+description: Deep learning has, within the last year or two, become a very interesting topic to me, expecially through advances in Generative AI and it's vast implications in the world of tech.
